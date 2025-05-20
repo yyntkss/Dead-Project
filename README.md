@@ -1,2 +1,11 @@
 # Dead-Project
-CarX Street Akun
+Adalah Project Backup Akun Carx street 
+Disini Saya backup akun CarX Street aja Untuk datanya kalian download sendiri:)
+## FEATURES  
+[ ] Unlimited Money
+[ ] Unlock All Car
+[ ] Lvl 2
+[ ] There are several cars that have been 
+## Plus++
+[ ] No Ban
+[ ] Aman Main Online
